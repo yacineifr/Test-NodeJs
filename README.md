@@ -3,7 +3,7 @@ Code Exercice 1 & Exercice 2
 
 Exercice 1 : 
 
- -Lancez avec la commande : php tableau.php
+  -Lancez avec la commande : php tableau.php
 
 Exercice 2 :
 
