@@ -2,6 +2,7 @@
 Code Exercice 1 & Exercice 2
 
 Exercice 1 : 
+
  lancez avec php tableau.php
 
 Exercice 2 :
