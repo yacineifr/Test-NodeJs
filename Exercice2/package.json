@@ -1,7 +1,6 @@
 {
     "name": "nodejs-product-api",
     "version": "1.0.0",
-    "description": "Simple Node.js API for storing and retrieving product information",
     "main": "server.js",
     "dependencies": {
       "body-parser": "^1.19.0",
